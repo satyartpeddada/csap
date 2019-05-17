@@ -1,0 +1,8 @@
+!.gitignore
+*.ini
+*.asv
+.private*/
+
+# temporary ignores
+dscc2019*/
+case1_1_H*/
